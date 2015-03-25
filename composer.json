@@ -1,7 +1,7 @@
 {
-    "name": "alchemy/google-plus-api-client",
+    "name": "kunstmaan/google-api-custom",
     "type": "library",
-    "description": "PHP Client for Google APIs",
+    "description": "A custom fork of alchemy/google-plus-api-client for the use into the Kunstmaan Bundles CMS without the composer warnings",
     "homepage": "https://code.google.com/p/google-api-php-client/",
     "license": "Apache-2.0",
     "authors": [
