@@ -986,6 +986,9 @@ class Google_YouTubeService extends Google_Service {
   public $thumbnails;
   public $videoCategories;
   public $videos;
+    /** @var string */
+    private $serviceName;
+
   /**
    * Constructs the internal representation of the YouTube service.
    *

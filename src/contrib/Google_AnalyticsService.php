@@ -533,6 +533,9 @@ class Google_AnalyticsService extends Google_Service {
   public $management_profiles;
   public $management_segments;
   public $management_webproperties;
+    /** @var string */
+    private $serviceName;
+
   /**
    * Constructs the internal representation of the Analytics service.
    *
